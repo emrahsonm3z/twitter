@@ -6,4 +6,4 @@ export default {
   title: 'Buttons'
 }
 
-export const NormalButton = () => <Button>Save</Button>
+export const NormalButton = () => <Button>Save 2</Button>
